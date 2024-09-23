@@ -13,8 +13,3 @@ Take a look at some screenshots from the app in action:
   <img src="http://p2p.moscow/visia4.png" alt="Screenshot1" style="width: 150px; height: auto;"/>
   <img src="http://p2p.moscow/visia2.png" alt="Screenshot1" style="width: 150px; height: auto;"/>
 </div>
-
-
-
-
-Проект закрыт
